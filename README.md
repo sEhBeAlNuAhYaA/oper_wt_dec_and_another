@@ -1,4 +1,4 @@
-# Operations with decimal, binary, octupal and hexadecimal numbers
+# Operations with decimal, binary, octupal and hexadecimal numbers(and converting)
 
 
 ### Nuumerical Systems
