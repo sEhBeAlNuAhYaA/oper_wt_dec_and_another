@@ -455,7 +455,7 @@ vector <char> add_drob(vector <char> first, vector <char> second, int SS) {
 	return answer_char;
 
 }
-//submission
+//subtraction
 vector <int> sub_cel(vector <int> first_num, vector <int> second_num, int SS) {
 	vector <int> answer;
 	int biggest = 0;
